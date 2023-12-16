@@ -4,7 +4,7 @@
 
 - Reduce repeated code and enhance objects using inheritance.
   - Use `super` to call methods on a parent class from the child class.
-- Accomplish complex programming tasks using knowledge from previous modules.
+- Accomplish complex programming tasks using knowledge from previous modules..
 
 ***
 
